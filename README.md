@@ -2,7 +2,7 @@
 
 ## Description
 
-This is Minecraft library for contacting the Mojang API. It features modern features of Java and flexible way of
+ hi there This is Minecraft library for contacting the Mojang API. It features modern features of Java and flexible way of
 communicating with Mojang. Furthermore, this project is used for experimenting with Unit-Tests.
 
 ## Features
@@ -22,7 +22,7 @@ communicating with Mojang. Furthermore, this project is used for experimenting w
 ## Planned
 
 * Unit testing for HTTP requests like in [google-http-client](https://github.com/google/google-http-java-client)
-* Service registration for Bukkit and Sponge
+* Servic hello e registration for Bukkit and Sponge
 * Cache cracked username requests
 * HTTP request interceptor to redirect to this library
 * Wait a customizable interval for sending bulk requests (although this increases latency)
